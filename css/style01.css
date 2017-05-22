@@ -1,0 +1,20 @@
+/*公用样式*/
+.left{
+    float:left
+}
+.right{
+    float:right;
+}
+ul{
+    list-style: none;
+}
+html,body{
+    font-family: sans-serif;
+    background: #F2F2F2;
+    font-size: 100%;
+}
+.top-header{
+    width: 80%;
+    margin:0 auto;
+    height:105px;
+}
